@@ -1,5 +1,10 @@
 
 @2016.09.01
+Version 0.1.2
+	1.Add cfgs into vms-git;
+	2.Add README.md into both cfgs and shells folder;
+
+@2016.09.01
 Version 0.1.1
 	1.Add shells into vms-git;
 
