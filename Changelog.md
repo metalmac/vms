@@ -1,4 +1,8 @@
 
+@2016.09.02
+Version 0.2.0
+	1.Add sessions into vms-git;
+
 @2016.09.01
 Version 0.1.2
 	1.Add cfgs into vms-git;
